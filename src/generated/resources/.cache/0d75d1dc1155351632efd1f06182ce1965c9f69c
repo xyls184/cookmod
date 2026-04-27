@@ -1,0 +1,7 @@
+// 1.20.1	2026-04-26T22:13:56.6303344	Tags for minecraft:item mod id gtwc
+810d48ebf8bc25cdceb519db9e99494b709afae2 data/forge/tags/items/crops.json
+cac3675613fbbbe2b8af02114240c2e51f23e12e data/forge/tags/items/crops/peanut.json
+57aca3221fe9eca22e4675313197622c40aaf2eb data/forge/tags/items/crops/tomato.json
+57aca3221fe9eca22e4675313197622c40aaf2eb data/forge/tags/items/vegetables.json
+80ba9a80f26174e85bd471f08251a2a146fa88c8 data/forge/tags/items/vegetables/sweet_potato.json
+c5b3daf466613cd3826debfbf26a5d7ef706dfa6 data/forge/tags/items/vegetables/taro.json

@@ -1,0 +1,51 @@
+[264月2026 22:13:44.581] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\Celestia\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, gtwc, --all, --output, C:\Users\Celestia\IKEAProjects\forge-1.20.1-47.4.10-mdk\src\generated\resources, --existing, C:\Users\Celestia\IKEAProjects\forge-1.20.1-47.4.10-mdk\src\main\resources]
+[264月2026 22:13:44.586] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.12 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[264月2026 22:13:44.666] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[264月2026 22:13:44.703] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Celestia/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23129!/ Service=ModLauncher Env=CLIENT
+[264月2026 22:13:45.028] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Celestia\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.3.0\d7ebc62120f202109e300e084ca1a31a7b946a62\javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[264月2026 22:13:45.030] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Celestia\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.3.0\1bf3e845ea0ce750096da8c71c8364b188ab74d4\lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[264月2026 22:13:45.032] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Celestia\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.3.0\6093682e943ddccbabf70539319d7f2fe64db2e7\mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[264月2026 22:13:45.034] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Celestia\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.3.0\3b6be96aba3e323f3c918e8ef6a96312d82d76ad\fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[264月2026 22:13:45.385] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[264月2026 22:13:47.110] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[264月2026 22:13:47.123] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\Celestia\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, gtwc, --all, --output, C:\Users\Celestia\IKEAProjects\forge-1.20.1-47.4.10-mdk\src\generated\resources, --existing, C:\Users\Celestia\IKEAProjects\forge-1.20.1-47.4.10-mdk\src\main\resources]
+[264月2026 22:13:47.432] [main/INFO] [mixin/]: Remapping refMap configuration.refmap.json using C:\Users\Celestia\IKEAProjects\forge-1.20.1-47.4.10-mdk/build/createSrgToMcp/output.srg
+[264月2026 22:13:47.453] [main/INFO] [mixin/]: Remapping refMap architectury-forge-refmap.json using C:\Users\Celestia\IKEAProjects\forge-1.20.1-47.4.10-mdk/build/createSrgToMcp/output.srg
+[264月2026 22:13:47.455] [main/INFO] [mixin/]: Remapping refMap architectury-common-refmap.json using C:\Users\Celestia\IKEAProjects\forge-1.20.1-47.4.10-mdk/build/createSrgToMcp/output.srg
+[264月2026 22:13:47.461] [main/INFO] [mixin/]: Remapping refMap ldlib-common-1.20.1-ldlib-common-refmap.json using C:\Users\Celestia\IKEAProjects\forge-1.20.1-47.4.10-mdk/build/createSrgToMcp/output.srg
+[264月2026 22:13:47.464] [main/INFO] [mixin/]: Remapping refMap ldlib-forge-1.20.1-ldlib-forge-refmap.json using C:\Users\Celestia\IKEAProjects\forge-1.20.1-47.4.10-mdk/build/createSrgToMcp/output.srg
+[264月2026 22:13:47.467] [main/INFO] [mixin/]: Remapping refMap gtceu.refmap.json using C:\Users\Celestia\IKEAProjects\forge-1.20.1-47.4.10-mdk/build/createSrgToMcp/output.srg
+[264月2026 22:13:48.471] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [gtwc]
+[264月2026 22:13:48.550] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
+[264月2026 22:13:52.667] [modloading-worker-0/INFO] [GregTechCEu/]: GregTechCEu is initializing...
+[264月2026 22:13:52.688] [modloading-worker-0/INFO] [LowDragLib/]: LowDragLib is initializing on platform: Forge
+[264月2026 22:13:52.724] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[264月2026 22:13:52.727] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[264月2026 22:13:52.839] [modloading-worker-0/INFO] [Configuration/FileWatching]: Registered configuration config for auto-sync function
+[264月2026 22:13:52.979] [modloading-worker-0/INFO] [Configuration/FileWatching]: Registered gtceu config for auto-sync function
+[264月2026 22:13:52.986] [modloading-worker-0/INFO] [GregTechCEu/]: High-Tier is Enabled.
+[264月2026 22:13:53.140] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id architectury:sync_ids
+[264月2026 22:13:53.143] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[264月2026 22:13:53.435] [main/INFO] [GregTechCEu/]: GTCEu common proxy init!
+[264月2026 22:13:53.490] [main/INFO] [GregTechCEu/]: Registering material registries
+[264月2026 22:13:53.491] [main/INFO] [GregTechCEu/]: Registering GTCEu Materials
+[264月2026 22:13:53.659] [main/INFO] [GregTechCEu/]: Registering addon Materials
+[264月2026 22:13:54.393] [main/WARN] [GregTechCEu/]: FluidStorageKey{gtceu:liquid} already has an associated fluid for material gtceu:milk
+[264月2026 22:13:54.407] [main/WARN] [GregTechCEu/]: FluidStorageKey{gtceu:liquid} already has an associated fluid for material gtceu:lava
+[264月2026 22:13:54.443] [main/WARN] [GregTechCEu/]: FluidStorageKey{gtceu:liquid} already has an associated fluid for material gtceu:water
+[264月2026 22:13:55.537] [main/INFO] [GregTechCEu/]: Registering KeyBinds
+[264月2026 22:13:55.541] [main/WARN] [net.minecraftforge.fml.DeferredWorkQueue/LOADING]: Mod 'gtceu' took 2.106 s to run a deferred task.
+[264月2026 22:13:56.355] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Celestia/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.0_mapped_official_1.20.1/forge-1.20.1-47.3.0_mapped_official_1.20.1.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[264月2026 22:13:56.356] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Celestia/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.0_mapped_official_1.20.1/forge-1.20.1-47.3.0_mapped_official_1.20.1.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[264月2026 22:13:56.488] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Languages: zh_cn
+[264月2026 22:13:56.494] [main/INFO] [net.minecraft.data.DataGenerator/]: Languages: zh_cn finished after 4 ms
+[264月2026 22:13:56.494] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Languages: en_us
+[264月2026 22:13:56.494] [main/INFO] [net.minecraft.data.DataGenerator/]: Languages: en_us finished after 0 ms
+[264月2026 22:13:56.494] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: gtwc
+[264月2026 22:13:56.506] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: gtwc finished after 11 ms
+[264月2026 22:13:56.507] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id gtwc
+[264月2026 22:13:56.615] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id gtwc finished after 108 ms
+[264月2026 22:13:56.615] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id gtwc
+[264月2026 22:13:56.627] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id gtwc finished after 12 ms
+[264月2026 22:13:56.628] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 139 ms
+[264月2026 22:13:56.635] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 12, old count: 0, new count: 13, removed stale: 0, written: 12
