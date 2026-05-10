@@ -33,5 +33,11 @@ public class DataGenerators {
         };
         generator.addProvider(event.includeServer(), blockTagsProvider);
         generator.addProvider(event.includeServer(), new ModItemTagProvider(packOutput, lookupProvider, blockTagsProvider, existingFileHelper));
+
+        // GTCEu Registrate 会在 datagen 后留下非守护线程导致 JVM 无法退出，延迟强制退出
+        new Thread(() -> {
+            try { Thread.sleep(5000); } catch (InterruptedException ignored) {}
+            System.exit(0);
+        }).start();
     }
 }

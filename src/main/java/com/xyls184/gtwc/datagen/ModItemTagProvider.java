@@ -25,6 +25,9 @@ public class ModItemTagProvider extends ItemTagsProvider {
     protected void addTags(HolderLookup.Provider provider) {
         // 根据枚举自动挂载标签
         for (AutoAdd food : AutoAdd.values()) {
+            if (food.isVanilla()) {
+                continue;
+            }
             for (String tagString : food.getTags()) {
                 // 将字符串 (如 "forge:crops") 转换为 Minecraft 的 TagKey
                 TagKey<Item> tagKey = ItemTags.create(new ResourceLocation(tagString));
