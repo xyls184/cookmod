@@ -20,6 +20,13 @@ build
 # other
 eclipse
 run
+run-data
+
+# vscode
+.vscode
+
+# Data gen cache
+src/generated/**/.cache/
 
 # Files from Forge MDK
 forge*changelog.txt
